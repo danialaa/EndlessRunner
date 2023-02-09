@@ -1,7 +1,7 @@
 # EndlessRunner
  My go at the infamous SubwaySurfer! for both desktop and Android
  
-![GameDemo](https://i.gyazo.com/a2f84813872280ddd7749487bc7426e0.gif)
+![GameDemo](https://github.com/danialaa/EndlessRunner/blob/main/GameDemo.gif)
 
 This is a simple endless runner game, built with Unity3D and C#, the game supports both desktop and phone controls (Move on desktop using WAD keys and on phone using swipe)
 
