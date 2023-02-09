@@ -13,6 +13,8 @@ This is a simple endless runner game, built with Unity3D and C#, the game suppor
 -There are different types of obstacles in the game, some you can jump above to avoid (the plant pot) and some you have to dodge by switching lanes (cola machine and trash bin).  
 -You have a maximum of 4 lives that decrease with each hit you take, collect as many coins to score a new highscore! (Highscores are saved locally using PlayerPrefs and compared with every gameover).  
 -The screen is supported by all window sizes, enjoy it on you preffered size and device!  
+-Code includes Singleton design pattern for the Game Manager.  
+-Code includes a simple usage of coroutines implemented on the damage fade in/out effect.  
 -You can restart/pause/resume the game all you want in the mini menu that you can access mid-game on the top left corner!  
 
 # Builds
